@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:50%;
+    margin:auto;
+}
+
+
+.card-image img{
+    padding-left: 100px;
+}
+.para{
+    display:none;
+}
+.button a{
+    padding-left: 150px;
+    text-decoration: none;
+    font-size:20px;
+    
+   
+}
+.button{
+    padding-top: 40px;
+   
+}
+p{
+    color:green;
+    border:2px solid red;
+    border-radius: 20px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
